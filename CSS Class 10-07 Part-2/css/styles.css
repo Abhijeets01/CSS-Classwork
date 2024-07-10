@@ -1,0 +1,32 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.none-element {
+   /* Removes the content +  rectangular box from the layout (div/h2..) */
+   display: none;
+}
+
+.hidden-element {
+   /* Removes the content only from the layout */
+   visibility: hidden;
+}
+
+/* Next to each other */
+/* p {
+   display: inline;
+} */
+
+/* Separate Lines */
+/* a {
+   display: block;
+} */
+
+/* a {
+   display: inline-block;
+   background: lightblue;
+   padding: 10px;
+   margin: 20px 10px;
+   width: 200px;
+   height: 100px;
+} */

@@ -1,0 +1,31 @@
+/* * {
+   margin: 0;
+   padding: 0;
+} */
+
+p {
+   color: orange;
+}
+
+.second-para {
+   color: green;
+   font-size: 30px;
+}
+
+.second-para-font-size {
+   font-size: 50px;
+}
+
+#header {
+   background-color: aqua;
+}
+
+#anchor-tag {
+   background-color: red;
+}
+
+h2,
+a {
+   color: blueviolet;
+   font-size: 20px;
+}

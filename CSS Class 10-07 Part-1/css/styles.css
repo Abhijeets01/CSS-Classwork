@@ -1,0 +1,49 @@
+* {
+   /* To reset browser CSS */
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: 'Poppins', sans-serif;
+   box-sizing: border-box;
+}
+
+
+.box {
+   background-color: darkblue;
+   color: white;
+   width: 400px;
+   padding: 20px;
+   /* Padding */
+   /* padding-left: 20px;
+   padding-top: 40px;
+   padding-right: 60px;
+   padding-bottom: 80px; */
+   /* Border */
+   /* border-width: 20px;
+   border-style: dotted;
+   border-color: red; */
+   /* border: width style color */
+   border: 4px solid green;
+}
+
+/* Margin */
+
+.box-2 {
+   margin-top: 30px;
+   margin-right: 40px;
+   margin-left: 10px;
+   margin-bottom: 60px;
+   /* Border */
+   border: none;
+   border-left: 2px solid #d57777;
+   border-radius: 10px;
+   /* border-top-left-radius: 20px; */
+}
+
+.box-1 {
+   /* margin: TOP-BOTTOM(TB) LEFT-RIGHT(LR) */
+   /* To center any element in the viewport */
+   margin: 100px auto;
+}
